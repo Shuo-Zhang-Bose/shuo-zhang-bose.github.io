@@ -1,5 +1,3 @@
-# shuo-zhang-bose.github.io
-
-## welcome
+# welcome
 
 This is my new site. 
